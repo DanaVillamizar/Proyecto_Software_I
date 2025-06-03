@@ -44,8 +44,6 @@
     npm run dev
     ```
 
-    Accede a: `http://localhost:5173`
-
 ---
 
 ## Ejecución con Docker

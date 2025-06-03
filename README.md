@@ -23,16 +23,6 @@
 
 ---
 
-## Requisitos
-
-- [Node.js](https://nodejs.org/)
-- [Docker](https://www.docker.com/) (opcional)
-- [Git](https://git-scm.com/)
-- [Android Studio](https://developer.android.com/studio) (para compilar APK)
-- [Capacitor](https://capacitorjs.com/)
-
----
-
 ## Instalación local
 
 1. Clona el repositorio:

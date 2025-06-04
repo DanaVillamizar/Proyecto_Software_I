@@ -29,7 +29,7 @@
 
     ```bash
     git clone https://github.com/DanaVillamizar/Proyecto_Software_I.git
-    cd control-gastos-web
+    cd Proyecto_Software_I
     ```
 
 2. Instala dependencias:
